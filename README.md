@@ -24,7 +24,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 - :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:nttri.10a1cl2@gmail.com)
 
