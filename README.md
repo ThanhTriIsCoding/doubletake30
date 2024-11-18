@@ -50,5 +50,5 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=doubletake30&theme=youtube-dark&hide_border=true&border_radius=14.4&card_width=500" alt="GitHub Streak" /></a> </br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ThanhTriIsCoding&theme=youtube-dark&hide_border=true&border_radius=14.4&card_width=500" alt="GitHub Streak" /></a> </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doubletake30&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
